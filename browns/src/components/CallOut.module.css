@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Rubik&display=swap");
+
+h1 {
+  margin: 0;
+  padding: 0;
+}
+
+.CallOutDiv {
+  background-color: black;
+}
+.knockoutTextOne {
+  color: black;
+  font-family: "Abril Fatface", cursive;
+  background: url("../images/bnwbgnewc.png") no-repeat;
+  background-size: cover;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  font-size: 20vw;
+  text-align: center;
+}
+
+
